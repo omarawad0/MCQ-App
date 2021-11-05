@@ -1,0 +1,5 @@
+export const ENROLL_STUDENT = "ENROLL_STUDENT";
+export const NEXT_STEP = "NEXT_STEP";
+export const DECREMENT_SCORE = "DECREMENT_SCORE";
+export const SHUFFLE_QUESTIONS = "SHUFFLE_QUESTIONS";
+export const RESET_SCORE = "RESET_SCORE";
