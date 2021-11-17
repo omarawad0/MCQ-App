@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MCQ-App/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/MCQ-App/static/js/main.aa65c718.chunk.js",
+    "main.js.map": "/MCQ-App/static/js/main.aa65c718.chunk.js.map",
+    "runtime-main.js": "/MCQ-App/static/js/runtime-main.0ba1713c.js",
+    "runtime-main.js.map": "/MCQ-App/static/js/runtime-main.0ba1713c.js.map",
+    "static/js/2.b52cf408.chunk.js": "/MCQ-App/static/js/2.b52cf408.chunk.js",
+    "static/js/2.b52cf408.chunk.js.map": "/MCQ-App/static/js/2.b52cf408.chunk.js.map",
+    "index.html": "/MCQ-App/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/MCQ-App/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.b52cf408.chunk.js.LICENSE.txt": "/MCQ-App/static/js/2.b52cf408.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ba1713c.js",
+    "static/js/2.b52cf408.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.aa65c718.chunk.js"
+  ]
+}
